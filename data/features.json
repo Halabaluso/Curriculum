@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "icon": "../../img/vue.png",
+    "title": "Vue",
+    "content": "Amplia experiencia como desarrollador Vue 2, Vue 3 y Nuxt 3 en proyectos empresariales.",
+    "subcontent": "4 años de experiencia."
+  },
+  {
+    "id": 2,
+    "icon": "../../img/nuxt.png",
+    "title": "Nuxt",
+    "content": "Proyectos en SSR para optimización de velocidad y seo de aplicaciones web.",
+    "subcontent": "3 años de experiencia."
+  },
+  {
+    "id": 3,
+    "icon": "../img/react.png",
+    "title": "React",
+    "content": "Desarrollos en React manteniendo los principios SOLID y buenas prácticas.",
+    "subcontent": "1 año de experiencia."
+  },
+  {
+    "id": 4,
+    "icon": "../img/adobexd.jpg",
+    "title": "Git, Github y Netlify",
+    "content": "Comandos de git, control de versiones y deploy con Netlify.",
+    "subcontent": "2 años de experiencia."
+  },
+  {
+    "id": 5,
+    "icon": "../img/adobexd.jpg",
+    "title": "Google Firebase",
+    "content": "Realtime Database (NoSQL), Auth, Documents Database, Triggers, Cloud Functions.",
+    "subcontent": "4 años de experiencia."
+  },
+  {
+    "id": 6,
+    "icon": "../img/adobexd.jpg",
+    "title": "Adobe XD + paquete Adobe",
+    "content": "Maquetación, diseño, estructuración y presentación.",
+    "subcontent": "7 años de experiencia."
+  }
+]
