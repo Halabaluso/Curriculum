@@ -24,7 +24,7 @@
         </div>
 
         <div class="gallery full-width">
-          <div class="col-md-6 items brand wow fadeInUp" data-wow-delay=".4s">
+          <div class="col-md-6 items brand wow fadeInUp" data-wow-delay=".1s">
             <div class="item-img">
               <div class="cont">
                 <h6>Padelfy</h6>
@@ -48,7 +48,7 @@
             </div>
           </div>
 
-          <div class="col-md-6 items brand lg-mr wow fadeInUp" data-wow-delay=".4s">
+          <div class="col-md-6 items brand wow fadeInUp" data-wow-delay=".1s">
             <div class="item-img">
               <div class="cont">
                 <h6>Doota</h6>
@@ -72,7 +72,7 @@
             </div>
           </div>
 
-          <div class="col-md-6 items brand wow fadeInUp" data-wow-delay=".4s">
+          <div class="col-md-6 items brand wow fadeInUp" data-wow-delay=".1s">
             <div class="item-img">
               <div class="cont">
                 <h6>Molly</h6>
@@ -96,7 +96,7 @@
             </div>
           </div>
 
-          <div class="col-md-6 items brand wow fadeInUp" data-wow-delay=".4s">
+          <div class="col-md-6 items brand wow fadeInUp" data-wow-delay=".1s">
             <div class="item-img">
               <div class="cont">
                 <h6>Task Manager</h6>
@@ -117,7 +117,7 @@
             </div>
           </div>
 
-          <div class="col-md-6 items web wow fadeInUp" data-wow-delay=".4s">
+          <div class="col-md-6 items web wow fadeInUp" data-wow-delay=".1s">
             <div class="item-img">
               <div class="cont">
                 <h6>Tareator</h6>
@@ -141,7 +141,7 @@
             </div>
           </div>
 
-          <div class="col-md-6 items web lg-mr wow fadeInUp" data-wow-delay=".4s">
+          <div class="col-md-6 items web wow fadeInUp" data-wow-delay=".1s">
             <div class="item-img">
               <div class="cont">
                 <h6>Kont</h6>
@@ -165,7 +165,7 @@
             </div>
           </div>
 
-          <div class="col-md-6 items web wow fadeInUp" data-wow-delay=".4s">
+          <div class="col-md-6 items web wow fadeInUp" data-wow-delay=".1s">
             <div class="item-img">
               <div class="cont">
                 <h6>FXPRO</h6>
@@ -189,7 +189,7 @@
             </div>
           </div>
 
-          <div class="col-md-6 items web wow fadeInUp" data-wow-delay=".4s">
+          <div class="col-md-6 items web wow fadeInUp" data-wow-delay=".1s">
             <div class="item-img">
               <div class="cont">
                 <h6>Cardiosalus</h6>
@@ -213,7 +213,7 @@
             </div>
           </div>
 
-          <div class="col-md-6 items front wow fadeInUp" data-wow-delay=".4s">
+          <div class="col-md-6 items front wow fadeInUp" data-wow-delay=".1s">
             <div class="item-img">
               <div class="cont">
                 <h6>Sciency</h6>

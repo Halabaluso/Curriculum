@@ -13,12 +13,12 @@
       </div>
       <div class="row">
         <div v-for="(item, index) in featuresData" class="col-lg-6 wow fadeInLeft" :data-wow-delay="index == 0
-            ? '.5s'
+            ? '.1s'
             : index == 1
-              ? '.7s'
+              ? '.2s'
               : index === 2
-                ? '.9s'
-                : '.5s'
+                ? '.3s'
+                : '.3s'
           " :key="item.id">
           <div class="item-box no-curve">
             <div>

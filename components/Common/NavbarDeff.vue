@@ -5,19 +5,19 @@
     <div>
       <ul class="hidden md:flex flex-row items-center">
         <li @click="jumpMenu(`inicio`)" class="m-2 p-1 hover:bg-gradient-to-tr from-pink-500 to-purple-500 hover:rounded hover:shadow-xl hover:border-b-2 duration-300">
-         <Icon name = "ph:house-light"></Icon> Inicio
+         <button><Icon name = "ph:house-light"></Icon> Inicio</button>
         </li>
         <li @click="jumpMenu(`tecnologias`)" class="m-2 p-1 hover:bg-gradient-to-tr from-pink-500 to-purple-500 hover:rounded hover:shadow-xl hover:border-b-2 duration-300">
-          <Icon name = "ph:devices"></Icon> Tecnologías
+          <button><Icon name = "ph:devices"></Icon> Tecnologías</button>
         </li>
         <li @click="jumpMenu(`proyectos`)" class="m-2 p-1 hover:bg-gradient-to-tr from-pink-500 to-purple-500 hover:rounded hover:shadow-xl hover:border-b-2 duration-300">
-          <Icon name = "ph:bounding-box"></Icon> Proyectos
+          <button><Icon name = "ph:bounding-box"></Icon> Proyectos</button>
         </li>
         <li @click="jumpMenu(`competencias`)" class="m-2 p-1 hover:bg-gradient-to-tr from-pink-500 to-purple-500 hover:rounded hover:shadow-xl hover:border-b-2 duration-300">
-          <Icon name = "ph:crown-simple"></Icon> Competencias
+          <button><Icon name = "ph:crown-simple"></Icon> Competencias</button>
         </li>
         <li @click="jumpMenu(`contacto`)" class="m-2 p-1 hover:bg-gradient-to-tr from-pink-500 to-purple-500 hover:rounded hover:shadow-xl hover:border-b-2 duration-300">
-          <Icon name = "ph:user-circle-plus"></Icon> Contacto
+          <button><Icon name = "ph:user-circle-plus"></Icon> Contacto</button>
         </li>
       </ul>
       <button @click="openMenu" class="md:hidden block"><Icon name="ph:list" size="1.6em"></Icon></button>
@@ -32,19 +32,19 @@
       
       <ul @click="openMenu" class="text-black">
         <li @click="jumpMenu(`inicio`)" class="m-2 p-1 hover:bg-gradient-to-tr from-pink-500 to-purple-500 hover:rounded hover:shadow-xl hover:border-b-2 duration-300 border-b">
-         <Icon name = "ph:house-light"></Icon> Inicio
+          <button><Icon name = "ph:house-light"></Icon> Inicio</button>
         </li>
         <li @click="jumpMenu(`tecnologias`)" class="m-2 p-1 hover:bg-gradient-to-tr from-pink-500 to-purple-500 hover:rounded hover:shadow-xl hover:border-b-2 duration-300 border-b">
-          <Icon name = "ph:devices"></Icon> Tecnologías
+          <button><Icon name = "ph:devices"></Icon> Tecnologías</button>
         </li>
         <li @click="jumpMenu(`proyectos`)" class="m-2 p-1 hover:bg-gradient-to-tr from-pink-500 to-purple-500 hover:rounded hover:shadow-xl hover:border-b-2 duration-300 border-b">
-          <Icon name = "ph:bounding-box"></Icon> Proyectos
+          <button><Icon name = "ph:bounding-box"></Icon> Proyectos</button>
         </li>
         <li @click="jumpMenu(`competencias`)" class="m-2 p-1 hover:bg-gradient-to-tr from-pink-500 to-purple-500 hover:rounded hover:shadow-xl hover:border-b-2 duration-300 border-b">
-          <Icon name = "ph:crown-simple"></Icon> Competencias
+          <button><Icon name = "ph:crown-simple"></Icon> Competencias</button>
         </li>
         <li @click="jumpMenu(`contacto`)" class="m-2 p-1 hover:bg-gradient-to-tr from-pink-500 to-purple-500 hover:rounded hover:shadow-xl hover:border-b-2 duration-300 border-b">
-          <Icon name = "ph:user-circle-plus"></Icon> Contacto
+          <button><Icon name = "ph:user-circle-plus"></Icon> Contacto</button>
         </li>
       </ul>
     </div>

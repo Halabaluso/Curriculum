@@ -5,7 +5,7 @@
             <div class="title">
               <h5>Contacto</h5>
             </div>
-            <ul class="flex flex-row justify-between">
+            <ul class="flex flex-col md:flex-row justify-between">
               <li>
                 <span class="icon pe-7s-map-marker"></span>
                 <div class="cont">
