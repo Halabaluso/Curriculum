@@ -19,6 +19,9 @@
         <li @click="jumpMenu(`contacto`)" class="m-2 p-1 hover:bg-gradient-to-tr from-pink-500 to-purple-500 hover:rounded hover:shadow-xl hover:border-b-2 duration-300">
           <button><Icon name = "ph:user-circle-plus"></Icon> Contacto</button>
         </li>
+        <li @click="jumpMenu(`contacto`)" class="m-2 p-3 rounded-full bg-gradient-to-br hover:bg-gradient-to-tr from-pink-500 to-purple-500 hover:shadow-xl hover:border-b-2 duration-300">
+          <a target="_blank" href="https://www.conecta-2s.com/wp-content/uploads/2023/11/Daniel-Martin-Frontend.pdf"><Icon name = "ph:user-circle-plus"></Icon> Descargar CV</a>
+        </li>
       </ul>
       <button @click="openMenu" class="md:hidden block"><Icon name="ph:list" size="1.6em"></Icon></button>
     </div>
@@ -45,6 +48,9 @@
         </li>
         <li @click="jumpMenu(`contacto`)" class="m-2 p-1 hover:bg-gradient-to-tr from-pink-500 to-purple-500 hover:rounded hover:shadow-xl hover:border-b-2 duration-300 border-b">
           <button><Icon name = "ph:user-circle-plus"></Icon> Contacto</button>
+        </li>
+        <li @click="jumpMenu(`contacto`)" class="m-2 p-3 rounded-full bg-gradient-to-br hover:bg-gradient-to-tr from-pink-500 to-purple-500 hover:shadow-xl hover:border-b-2 duration-300">
+          <a target="_blank" href="https://www.conecta-2s.com/wp-content/uploads/2023/11/Daniel-Martin-Frontend.pdf"><Icon name = "ph:user-circle-plus"></Icon> Descargar CV</a>
         </li>
       </ul>
     </div>
