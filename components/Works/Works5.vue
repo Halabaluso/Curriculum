@@ -117,6 +117,27 @@
             </div>
           </div>
 
+          <div class="col-md-6 items brand wow fadeInUp" data-wow-delay=".1s">
+            <div class="item-img">
+              <div class="cont">
+                <h6>Globy</h6>
+                <p>Réplica de Globo Admin</p>
+              </div>
+              <a class="rota" target="_blank" href="https://wondrous-tanuki-a243e8.netlify.app/">
+                <img src="../../img/globy-admin.jpg" alt="image" />
+                <div class="item-img-overlay"></div>
+              </a>
+              <div class="tags">
+                <span>
+                  App web
+                </span>
+                <span>
+                  React
+                </span>
+              </div>
+            </div>
+          </div>
+
           <div class="col-md-6 items web wow fadeInUp" data-wow-delay=".1s">
             <div class="item-img">
               <div class="cont">
@@ -221,6 +242,27 @@
               </div>
               <a class="rota" target="_blank" href="https://fluffy-croissant-2730ea.netlify.app/">
                 <img src="../../img/frontend.jpg" alt="image" />
+                <div class="item-img-overlay"></div>
+              </a>
+              <div class="tags">
+                <span>
+                  App móvil
+                </span>
+                <span>
+                  Nuxt 3
+                </span>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-6 items front wow fadeInUp" data-wow-delay=".1s">
+            <div class="item-img">
+              <div class="cont">
+                <h6>Globy web</h6>
+                <p>Frontend template</p>
+              </div>
+              <a class="rota" target="_blank" href="https://655e8f8001df1a09cc2f247d--profound-rolypoly-e50ace.netlify.app/">
+                <img src="../../img/GLOBY-WEB.jpg" alt="image" />
                 <div class="item-img-overlay"></div>
               </a>
               <div class="tags">

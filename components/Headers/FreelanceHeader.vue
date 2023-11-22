@@ -19,6 +19,11 @@
                 <img src="../../img/adobexd.jpg" class="floating-img rounded shadow-lg" alt="my floating image">
               </div>
             </div>
+            <div class="float-area absolute flex justify-start w-full mt-44 sm:mt-64 ml-8">
+              <div class="w-12 sm:w-14">
+                <img src="../../img/react.png" class="floating-img rounded shadow-lg" alt="my floating image">
+              </div>
+            </div>
             <img src="../../img/foto4.jpg" alt="" />
           </div>
         </div>
