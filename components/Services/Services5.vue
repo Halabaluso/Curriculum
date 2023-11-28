@@ -22,12 +22,15 @@
           " :key="item.id">
           <div class="item-box no-curve">
             <div>
-              <img v-if="index === 0" src="../../img/vue.png" class="w-32">
-              <img v-if="index === 1" src="../../img/nuxt.png" class="w-32">
-              <img v-if="index === 2" src="../../img/react.png" class="w-32">
-              <img v-if="index === 3" src="../../img/github.png" class="w-28">
-              <img v-if="index === 4" src="../../img/firebase.png" class="w-28">
-              <img v-if="index === 5" src="../../img/adobexd.jpg" class="w-28">
+              <img v-if="index === 0" src="../../img/javascript.jpg" class="w-32">
+              <img v-if="index === 1" src="../../img/ts-logo-256.png" class="w-32">
+              <img v-if="index === 2" src="../../img/vue.png" class="w-32">
+              <img v-if="index === 3" src="../../img/nuxt.png" class="w-32">
+              <img v-if="index === 4" src="../../img/react.png" class="w-32">
+              <img v-if="index === 5" src="../../img/next.png" class="w-32">
+              <img v-if="index === 6" src="../../img/github.png" class="w-28">
+              <img v-if="index === 7" src="../../img/firebase.png" class="w-28">
+              <img v-if="index === 8" src="../../img/adobexd.jpg" class="w-28">
             </div>
             <div class="cont">
               <h6>{{ item.title }}</h6>

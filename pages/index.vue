@@ -16,6 +16,7 @@ import Services from '@/components/Services/Services5';
 import MoreServices from '@/components/Services/Services3';
 import Works from '@/components/Works/Works5';
 import Footer from '@/components/Common/Footer';
+import OwnDeveloper from "../components/owncomponent/developer.vue"
 
 //= Page Metadata
 definePageMeta({
