@@ -2,7 +2,6 @@
   <CommonLoading />
   <Navbar />
   <FreelanceHeader id = "inicio" />
-  <GameComponent/>
   <Services id = "tecnologias" />
   <Works id = "proyectos" />
   <MoreServices id = "competencias" />
